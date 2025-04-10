@@ -1,3 +1,4 @@
+![alt text](image.png)
 
 # DeepLearning.AI Data Analytics Professional Certificate
 
